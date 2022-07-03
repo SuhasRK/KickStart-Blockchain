@@ -9,6 +9,6 @@ Crowdfunding application implemented on Blockchain
 - Solidity
 - Web3
 - Metamask
-- Javascript
+- Next.js
 
 
